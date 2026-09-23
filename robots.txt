@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://achcreo.cn/sitemap.xml

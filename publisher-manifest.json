@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e3347362db3f76ce3fd25fa6",
+  "owner": "jcpaept",
+  "repo": "page-61c023a263d3c278af435b16",
+  "title": "小鲤鱼",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "61c023a263d3c278af435b16",
+      "a": "小鲤鱼",
+      "b": "2027官方最新地址导航",
+      "entity": "小鲤鱼",
+      "brand": "小鲤鱼",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "65753073ffc9fb7cf0ab00b09693773ee423fb946f3cdedfb6bd00193d09904e",
+      "content": {
+        "primary_entity": "小鲤鱼",
+        "keyword1": "小鲤鱼",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开。小鲤鱼提供基础版、旗舰版、团队版三档订阅，月流量从100GB到1000GB，同时在线设备从3台到20台。旗舰版含IPLC专线游戏加速优化与7x24优先工单支持，团队版支持企业定制路由。按年付可省两个月费用，适合长期稳定使用。",
+          "AI_HERO_SUBTITLE": "小鲤鱼跨境加速，按设备选套餐",
+          "AI_HERO_INTRO": "小鲤鱼是面向海外网络访问的加速订阅服务，提供三档套餐覆盖个人到团队场景。基础版满足日常浏览，旗舰版侧重流媒体与游戏加速，团队版提供高带宽节点与定制路由。用户可按设备数量和月流量需求选择，并在各平台客户端导入订阅使用。",
+          "AI_VISUAL_TITLE": "小鲤鱼三档加速订阅",
+          "AI_HIGHLIGHT_1": "月付15元起，年付省两个月",
+          "AI_HIGHLIGHT_2": "3至20台设备灵活选",
+          "AI_HIGHLIGHT_3": "旗舰版含IPLC游戏专线",
+          "AI_FEATURES_TITLE": "套餐与设备匹配",
+          "AI_FEATURES_INTRO": "按设备数量与流量需求选择，避免功能浪费。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版3台，旗舰版5台，团队版20台，覆盖手机、平板与电脑。",
+          "AI_FEATURE_TITLE_2": "按流量选档",
+          "AI_FEATURE_TEXT_2": "100GB、300GB、1000GB月流量，轻度浏览可选基础版。",
+          "AI_FEATURE_TITLE_3": "按年付省成本",
+          "AI_FEATURE_TEXT_3": "基础版年付150元，旗舰版350元，团队版850元，相当于十个月费用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "按操作系统选择对应客户端，导入订阅链接即可使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与节点类型上有差异，按需对比。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，三步即可开始。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量需求，在小鲤鱼基础版、旗舰版或团队版中选定一档。",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的同时在线设备数与节点类型，确认当前设备数量在范围内。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在对应客户端文档中按说明导入订阅链接，完成配置后即可连接使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、流量与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐，稳定加速",
+          "AI_CLOSING_TEXT": "按设备与流量需求选定套餐，在小鲤鱼客户端完成订阅配置即可使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "小鲤鱼三档套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "主要区别在流量、设备数量和节点类型。基础版每月100GB、3台设备；旗舰版每月300GB、5台设备并含IPLC专线；团队版每月1000GB、20台设备。",
+          "AI_FAQ_QUESTION_2": "订阅如何导入到客户端？",
+          "AI_FAQ_ANSWER_2": "先在对应设备上安装合适的客户端，再从订阅信息中获取配置链接或二维码，按照客户端文档的导入说明完成添加即可。",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量超了会怎样？",
+          "AI_FAQ_ANSWER_3": "各套餐对同时在线设备数有明确上限，超出后新增设备可能无法连接。建议按常用设备数量选择基础版、旗舰版或团队版。",
+          "AI_FAQ_QUESTION_4": "年付和月付怎么选更划算？",
+          "AI_FAQ_ANSWER_4": "基础版年付150元，旗舰版年付350元，团队版年付850元。若长期使用，年付方案的月均费用低于按月支付。",
+          "AI_FAQ_QUESTION_5": "IPLC专线适合哪些使用场景？",
+          "AI_FAQ_ANSWER_5": "旗舰版和团队版包含IPLC专线节点，对延迟敏感的游戏和流媒体场景更友好，普通浏览与下载使用基础线路即可。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "achcreo.cn",
+    "host": "achcreo.cn"
+  },
+  "file_hashes": {
+    "index.html": "8d60821bae45b574f97fa6a3717d8081c9b0d1472fa0a9fd0b6544c499bf6bd2",
+    "sitemap.xml": "c069a3e679ed801e21a63efcf0344e62ca003ad6bc0e01b20de1b0335ec99221",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "745907e118be4d3262b1b7893ab3430bbaf297f158592df963f13b34219e636c",
+    "robots.txt": "d3b01990fde525f06bc32244876a12f2556b5f5c8be3be3f8f91d86d419f2dd5",
+    "a02d9bcd66b123c2e8742d576cb8098c.txt": "ea6ac68102dd67aa5a8c35b967a9c20efdaa844df6607029703cb9480e1204d7"
+  },
+  "revision": "998563c5db790aeaf8d37d8261b95565bec6a4b5ffbf531d8047bab6854d1929"
+}
